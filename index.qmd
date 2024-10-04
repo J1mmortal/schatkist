@@ -1,5 +1,5 @@
 ---
-title: "schatkist.github.io"
+title: "Schatkist"
 ---
 
 This is a Quarto website.
